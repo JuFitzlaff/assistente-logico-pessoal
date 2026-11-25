@@ -2,8 +2,9 @@
 
 > Atividade da disciplina Linguagem de Programação e Paradigmas · UNIDAVI · 2026/2
 
->**Aluno(a):** Julia da Silva Fitzlaff
->**Linguagem do sistema:** Python
+**Aluno(a):** Julia da Silva Fitzlaff
+
+**Linguagem do sistema:** Python
 
 ## O que é
 
